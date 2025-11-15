@@ -177,4 +177,18 @@ body {
     font-size: 50px;
 }
 
+.lessons .col {
+    width: 480px;
+    margin-top: 80px;
+}
+
+.card {
+    width: 100%;
+
+}
+
+.container h2 {
+    font-size: 40px;
+}
+
 }
